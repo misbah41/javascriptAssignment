@@ -15,14 +15,14 @@ console.log(kilometerToMeter(4))
 
 
 // 2nd problem solved
-function badgetCalculator(watch, phone, laptop){
+function budgetCalculator(watch, phone, laptop){
   
   var watchPrice  = watch*50;
       phonePrice  = phone*100;
       laptopPrice = laptop*500;
   return  watchPrice + phonePrice + laptopPrice;
 }
-console.log(badgetCalculator(1,1,1))
+console.log(budgetCalculator(2,1,1))
 
 
 //third problem solved
